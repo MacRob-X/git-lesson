@@ -6,3 +6,5 @@ This is my to-do list for 2024-11-18
 - Get a coffee
 - Eat pitta for lunch
 - Complete Python Programming 3 course
+- Make chana masala
+- Repot spider plant
