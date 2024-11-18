@@ -8,3 +8,4 @@ This is my to-do list for 2024-11-18
 - Complete Python Programming 3 course
 - Make chana masala
 - Repot spider plant
+- Read some Paradise Lost
